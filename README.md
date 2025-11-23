@@ -8,13 +8,9 @@
 
   <br><br>
 
-  <p>
-    <img src="https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-Enabled-blue?logo=github" alt="Student Pack" />
-    <img src="https://img.shields.io/badge/GitHub%20Pro-Student%20Benefit-red?logo=github" alt="GitHub Pro Badge" />
-    <img src="https://img.shields.io/badge/GitHub%20Student-Verified-black?logo=github" alt="Verified Student" />
-  </p>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="120" />
 
-  <br>
+  <br><br>
   
   <a href="https://www.linkedin.com/in/samuditha-kavishka-40235b363/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
