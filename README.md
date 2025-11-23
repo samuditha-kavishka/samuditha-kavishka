@@ -60,9 +60,9 @@
 
 <br>
 
-<h3 align="center">📅 My Contribution Calendar</h3>
+<h3 align="center">📅 My Productive Time</h3>
 <div align="center">
-  <img src="https://isomorphic-git.org/isometric-contribution-calendar?user=samuditha-kavishka&theme=radical" alt="Samuditha's Isometric Calendar" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuditha-kavishka&theme=radical" alt="Productive Time Chart" width="100%" />
 </div>
 <br>
 
