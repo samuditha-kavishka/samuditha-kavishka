@@ -3,7 +3,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Undergraduate;Developer;Ethical+Hacking+Enthusiast&font=Fira+Code&center=true&width=500&height=35&color=3776AB&vCenter=true&size=20" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Undergraduate;Developer;Cloud+Computing+Enthusiast&font=Fira+Code&center=true&width=500&height=35&color=3776AB&vCenter=true&size=20" alt="Typing Bio" />
   </a>
 
   <br><br>
@@ -26,7 +26,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Monocle Face" width="30" height="30" /> About Me
 
-- 🌱 I’m currently learning **Ethical Hacking and Cloud Computing**.
+- 🌱 I’m currently learning **Cloud Computing**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **Python**.
 
@@ -55,8 +55,16 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samuditha-kavishka&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuditha-kavishka&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
+
+<br>
+
+<h3 align="center">📅 My Contribution Calendar</h3>
+<div align="center">
+  <img src="https://isomorphic-git.org/isometric-contribution-calendar?user=samuditha-kavishka&theme=radical" alt="Samuditha's Isometric Calendar" width="100%" />
+</div>
+<br>
 
 ---
 
