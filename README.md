@@ -8,7 +8,7 @@
 
   <br><br>
 
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="120" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Animated GitHub Logo" width="150" />
 
   <br><br>
   
