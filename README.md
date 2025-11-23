@@ -1,8 +1,12 @@
-# Hi there! I'm Samuditha Kavishka 👋
+<h1 align="center">Hi there! I'm Samuditha Kavishka <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
 
 <div align="center">
   
-  <p>🎓 <b>Software Engineering Undergraduate</b> | 💻 <b>Developer</b></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Undergraduate;Developer;Ethical+Hacking+Enthusiast&font=Fira+Code&center=true&width=500&height=35&color=3776AB&vCenter=true&size=20" alt="Typing Bio" />
+  </a>
+
+  <br><br>
 
   <p>
     <img src="https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-Enabled-blue?logo=github" alt="Student Pack" />
@@ -20,7 +24,7 @@
 
 ---
 
-### 🧐 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Monocle Face" width="30" height="30" /> About Me
 
 - 🌱 I’m currently learning **Ethical Hacking and Cloud Computing**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
@@ -28,7 +32,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Skills & Tools
 
 <div align="left">
 
@@ -57,5 +61,5 @@
 ---
 
 <div align="center">
-  <p>Thanks for visiting my profile!</p>
+  <p>Thanks for visiting my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></p>
 </div>
