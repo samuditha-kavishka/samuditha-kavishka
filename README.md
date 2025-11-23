@@ -7,6 +7,10 @@
   </a>
 
   <br><br>
+
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Standard GitHub Logo" width="90" />
+
+  <br><br>
   
   <a href="https://www.linkedin.com/in/samuditha-kavishka-40235b363/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -26,13 +30,15 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Skills & Tools
 
-**Languages**<br>
+<div align="left">
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
-
-**Frontend**<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+
+</div>
+
 ---
 
 ### 📈 My GitHub Stats
@@ -49,9 +55,10 @@
 </div>
 
 <br>
+
 <h3 align="center">My Productive Time</h3>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuditha-kavishka&theme=radical&borders=false" alt="Productive Time Chart" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samuditha-kavishka&theme=radical" alt="Productive Time Chart" width="100%" />
 </div>
 <br>
 
