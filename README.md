@@ -22,7 +22,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Monocle Face" width="30" height="30" /> About Me
 
-- 🌱 I’m currently learning **Cloud Computing**.
+- 🌱 I’m currently learning **Software Engineering**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 💬 Ask me about **Python**.
 
