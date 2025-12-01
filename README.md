@@ -3,7 +3,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Developer&font=Fira+Code&center=true&width=500&height=50&color=3776AB&vCenter=true&pause=1000&size=20" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Developer&font=Fira+Code&center=true&width=340&height=50&color=3776AB&vCenter=true&pause=1000&size=20" alt="Typing Bio" />
   </a>
 
   <br><br>
@@ -42,18 +42,18 @@
 ### 📈 My GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuditha-kavishka&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  
+  <br><br>
 
-[![Samuditha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuditha-kavishka&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuditha-kavishka&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
+  
+  <br><br>
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuditha-kavishka&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=samuditha-kavishka&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com?user=samuditha-kavishka&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <h3 align="center">My Productive Time</h3>
 
