@@ -1,9 +1,12 @@
-<h1 align="center">Hi there! I'm Samuditha Kavishka <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
+<h1 align="center">
+Hi there! I'm Samuditha Kavishka 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="35" height="35" />
+</h1>
 
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Developer&font=Fira+Code&center=true&width=340&height=50&color=3776AB&vCenter=true&pause=1000&size=20" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Developer&font=Fira+Code&center=true&width=340&height=50&color=3776AB&vCenter=true&pause=1000&size=20" alt="Typing Bio Animation" />
   </a>
 
   <br><br>
@@ -13,14 +16,14 @@
   <br><br>
   
   <a href="https://www.linkedin.com/in/samuditha-kavishka-40235b363/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Monocle Face" width="30" height="30" /> About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Monocle Face Emoji" width="30" height="30" /> About Me
 
 - 🌱 I’m currently learning **Software Engineering**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
@@ -28,7 +31,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Skills & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools Emoji" width="30" height="30" /> Skills & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java Badge"/>
@@ -63,8 +66,8 @@
 
 <br>
 
----
-
 <div align="center">
-  <p>Thanks for visiting my profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /></p>
+  <p>Thanks for visiting my profile! 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30" height="30" />
+  </p>
 </div>
