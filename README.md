@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+Content+Creator;Cybersecurity+Enthusiast&font=Fira+Code&center=true&width=500&height=50&color=3776AB&vCenter=true&pause=1000&size=24" alt="Typing Bio Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+Content+Creator;&font=Fira+Code&center=true&width=500&height=50&color=3776AB&vCenter=true&pause=1000&size=24" alt="Typing Bio Animation" />
 </div>
 
 <div align="center">
