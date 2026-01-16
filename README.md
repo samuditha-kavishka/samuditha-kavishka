@@ -7,6 +7,7 @@
 </div>
 
 <div align="center">
+  <h3><img src="https://raw.githubusercontent.com/lucasalt/lucasalt/main/assets/github.svg" width="20px" /> GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=samuditha-kavishka&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
