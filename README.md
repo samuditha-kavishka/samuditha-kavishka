@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+Content+Creator&font=Fira+Code&center=true&width=500&height=50&color=3776AB&vCenter=true&pause=1000&size=24" alt="Typing Bio Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Undergraduate;Full-Stack+Developer;AI+Content+Creator;Cybersecurity+Enthusiast&font=Fira+Code&center=true&width=500&height=50&color=3776AB&vCenter=true&pause=1000&size=24" alt="Typing Bio Animation" />
 </div>
 
 <div align="center">
@@ -16,9 +16,9 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="30" /> About Me
 
 - 🎓 **Studies:** Software Engineering Undergraduate.
-- 🛡️ **Interests:** Ethical Hacking with **Kali Linux**.
-- 🤖 **Creative:** Developing AI-generated cinematic content for YouTube.
-- 💬 **Ask me about:** Java, Python, or Web Development.
+- 🛡️ **Interests:** Ethical Hacking with **Kali Linux** and **Cloud Computing**.
+- 🤖 **Creative:** Developing AI-generated cinematic vehicle showcases for YouTube.
+- 💬 **Ask me about:** Java, Python, HTML/CSS, or Web Development.
 
 ---
 
@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,java,spring,kali,idea" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,java,spring,kali,idea,maven,github,pvs" />
   </a>
 </div>
 
