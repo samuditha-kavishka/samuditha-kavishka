@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" />
-  Hi, I'm Samuditha Kavishka!
+  👋 Hi, I'm Samuditha Kavishka!
 </h1>
 
 <div align="center">
@@ -13,33 +12,33 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="30" /> About Me
+### 🧐 About Me
 
 - 🎓 **Studies:** Software Engineering Undergraduate.
 - 🛡️ **Interests:** Ethical Hacking with **Kali Linux** and **Cloud Computing**.
 - 🤖 **Creative:** Developing AI-generated cinematic vehicle showcases for YouTube.
-- 💬 **Ask me about:** Java, Python, HTML/CSS, or Web Development.
+- 💬 **Ask me about:** Java, Python, or Web Development.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" /> Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,java,spring,kali,idea,maven,github,pvs" />
+    <img src="https://skillicons.dev/icons?i=py,html,java,spring,kali,idea,github,pvs" />
   </a>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video+Game.png" width="30" /> Contribution Snake
+### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/samuditha-kavishka/samuditha-kavishka/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chart%20Increasing.png" width="30" /> GitHub Analytics
+### 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuditha-kavishka&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
@@ -52,7 +51,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You+Gesture.png" width="30" /> Connect With Me
+### 🤟 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samuditha-kavishka-40235b363/" target="_blank">
